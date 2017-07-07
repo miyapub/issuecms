@@ -1,0 +1,204 @@
+/*
+login 1477
+*/
+
+.um-1477.um {
+	max-width: 450px;
+}
+
+.um-1477.um .um-tip:hover,
+.um-1477.um .um-field-radio.active i,
+.um-1477.um .um-field-checkbox.active i,
+.um-1477.um .um-member-name a:hover,
+.um-1477.um .um-member-more a:hover,
+.um-1477.um .um-member-less a:hover,
+.um-1477.um .um-members-pagi a:hover,
+.um-1477.um .um-cover-add:hover,
+.um-1477.um .um-profile-subnav a.active,
+.um-1477.um .um-item-meta a,
+.um-account-name a:hover,
+.um-account-nav a.current,
+.um-account-side li a.current span.um-account-icon,
+.um-account-side li a.current:hover span.um-account-icon,
+.um-dropdown li a:hover,
+i.um-active-color,
+span.um-active-color
+{
+	color: #3ba1da;
+}
+
+.um-1477.um .um-field-group-head,
+.picker__box,
+.picker__nav--prev:hover,
+.picker__nav--next:hover,
+.um-1477.um .um-members-pagi span.current,
+.um-1477.um .um-members-pagi span.current:hover,
+.um-1477.um .um-profile-nav-item.active a,
+.um-1477.um .um-profile-nav-item.active a:hover,
+.upload,
+.um-modal-header,
+.um-modal-btn,
+.um-modal-btn.disabled,
+.um-modal-btn.disabled:hover,
+div.uimob800 .um-account-side li a.current,div.uimob800 .um-account-side li a.current:hover
+{
+	background: #3ba1da;
+}
+
+
+
+.um-1477.um .um-field-group-head:hover,
+.picker__footer,
+.picker__header,
+.picker__day--infocus:hover,
+.picker__day--outfocus:hover,
+.picker__day--highlighted:hover,
+.picker--focused .picker__day--highlighted,
+.picker__list-item:hover,
+.picker__list-item--highlighted:hover,
+.picker--focused .picker__list-item--highlighted,
+.picker__list-item--selected,
+.picker__list-item--selected:hover,
+.picker--focused .picker__list-item--selected {
+	background: #44b0ec;
+}
+
+.um-1477.um {
+	margin-left: auto!important;
+	margin-right: auto!important;
+}.um-1477.um input[type=submit]:disabled:hover {
+	background: #3ba1da;
+}.um-1477.um input[type=submit].um-button,
+.um-1477.um input[type=submit].um-button:focus,
+.um-1477.um a.um-button,
+.um-1477.um a.um-button.um-disabled:hover,
+.um-1477.um a.um-button.um-disabled:focus,
+.um-1477.um a.um-button.um-disabled:active {
+	background: #3ba1da;
+}.um-1477.um a.um-link {
+	color: #3ba1da;
+}.um-1477.um input[type=submit].um-button:hover,
+.um-1477.um a.um-button:hover {
+	background-color: #44b0ec;
+}.um-1477.um a.um-link:hover, .um-1477.um a.um-link-hvr:hover {
+	color: #44b0ec;
+}.um-1477.um .um-button {
+	color: #ffffff;
+}.um-1477.um .um-button.um-alt,
+.um-1477.um input[type=submit].um-button.um-alt {
+	background: #eeeeee;
+}.um-1477.um .um-button.um-alt:hover,
+.um-1477.um input[type=submit].um-button.um-alt:hover{
+	background: #e5e5e5;
+}.um-1477.um .um-button.um-alt,
+.um-1477.um input[type=submit].um-button.um-alt {
+	color: #666666;
+}
+.um-1477.um .um-form input[type=text],
+.um-1477.um .um-form input[type=tel],
+.um-1477.um .um-form input[type=number],
+.um-1477.um .um-form input[type=password],
+.um-1477.um .um-form textarea,
+.um-1477.um .upload-progress,
+.select2-container .select2-choice,
+.select2-drop,
+.select2-container-multi .select2-choices,
+.select2-drop-active,
+.select2-drop.select2-drop-above
+{
+	border: 2px solid #ddd !important;
+}
+
+.um-1477.um .um-form .select2-container-multi .select2-choices .select2-search-field input[type=text] {border: none !important}
+
+
+.um-1477.um .um-form input[type=text]:focus,
+.um-1477.um .um-form input[type=tel]:focus,
+.um-1477.um .um-form input[type=number]:focus,
+.um-1477.um .um-form input[type=password]:focus,
+.um-1477.um .um-form textarea:focus {
+	border: 2px solid #bbb !important;
+}
+
+.um-1477.um .um-form input[type=text],
+.um-1477.um .um-form input[type=tel],
+.um-1477.um .um-form input[type=number],
+.um-1477.um .um-form input[type=password],
+.um-1477.um .um-form textarea,
+.select2-container .select2-choice,
+.select2-container-multi .select2-choices
+{
+	background-color: #ffffff;
+}
+
+.um-1477.um .um-form input[type=text]:focus,
+.um-1477.um .um-form input[type=tel]:focus,
+.um-1477.um .um-form input[type=number]:focus,
+.um-1477.um .um-form input[type=password]:focus,
+.um-1477.um .um-form textarea:focus {
+	background-color: #ffffff;
+}
+
+
+.um-1477.um .um-form ::-webkit-input-placeholder
+{
+	color:  #aaaaaa;
+	opacity: 1 !important;
+}
+
+.um-1477.um .um-form ::-moz-placeholder
+{
+	color:  #aaaaaa;
+	opacity: 1 !important;
+}
+
+.um-1477.um .um-form ::-moz-placeholder
+{
+	color:  #aaaaaa;
+	opacity: 1 !important;
+}
+
+.um-1477.um .um-form ::-ms-input-placeholder
+{
+	color:  #aaaaaa;
+	opacity: 1 !important;
+}
+
+.select2-default,
+.select2-default *,
+.select2-container-multi .select2-choices .select2-search-field input
+{
+	color:  #aaaaaa;
+}
+.um-1477.um .um-field-icon i,
+.select2-container .select2-choice .select2-arrow:before,
+.select2-search:before,
+.select2-search-choice-close:before
+{
+	color: #aaaaaa;
+}
+.um-1477.um span.um-req
+{
+	color: #aaaaaa;
+}
+.um-1477.um .um-field-label {
+	color: #555555;
+}
+.um-1477.um .um-form input[type=text],
+.um-1477.um .um-form input[type=tel],
+.um-1477.um .um-form input[type=password],
+.um-1477.um .um-form textarea
+{
+	color: #666666;
+}
+.um-1477.um .um-form input:-webkit-autofill {
+    -webkit-box-shadow:0 0 0 50px white inset; /* Change the color to your own background color */
+    -webkit-text-fill-color: #666666;
+}
+.um-1477.um .um-form input:-webkit-autofill:focus {
+    -webkit-box-shadow: none,0 0 0 50px white inset;
+    -webkit-text-fill-color: #666666;
+}
+.um-1477.um .um-tip {
+	color: #cccccc;
+}

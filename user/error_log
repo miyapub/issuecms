@@ -1,0 +1,10 @@
+[11-Apr-2017 03:04:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/miyapub/public_html/conn.php on line 7
+[11-Apr-2017 03:04:48 UTC] PHP Notice:  Undefined index: name in /home/miyapub/public_html/user/login.php on line 18
+[11-Apr-2017 03:04:48 UTC] PHP Notice:  Undefined index: pass in /home/miyapub/public_html/user/login.php on line 19
+[11-Apr-2017 03:05:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/miyapub/public_html/conn.php on line 7
+[11-Apr-2017 03:05:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/miyapub/public_html/conn.php on line 7
+[11-Apr-2017 03:05:31 UTC] PHP Notice:  Undefined index: name in /home/miyapub/public_html/user/login.php on line 18
+[11-Apr-2017 03:05:31 UTC] PHP Notice:  Undefined index: pass in /home/miyapub/public_html/user/login.php on line 19
+[11-Apr-2017 03:05:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/miyapub/public_html/conn.php on line 7
+[11-Apr-2017 03:05:54 UTC] PHP Notice:  Undefined index: name in /home/miyapub/public_html/user/login.php on line 18
+[11-Apr-2017 03:05:54 UTC] PHP Notice:  Undefined index: pass in /home/miyapub/public_html/user/login.php on line 19
